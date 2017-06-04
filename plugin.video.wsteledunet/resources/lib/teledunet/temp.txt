@@ -1,0 +1,17 @@
+          rtmp://www.teledunet.com:1935/live/?idu=doodoo_7ftli35nhv 
+app=                                    live/?idu=doodoo_7ftli35nhv 
+swfUrl=   http://www.teledunet.com/mobile/rtmp_player/player.swf 
+flashVer= WIN\2025,0,0,127 
+tcUrl=    rtmp://www.teledunet.com:1935/live/?idu=doodoo_7ftli35nhv 
+playpath= art_aflam_1 
+live=1 
+pageUrl=  http://www.teledunet.com/mobile/rtmp_player/?channel=art_aflam_1&streamer=rtmp://www.teledunet.com:1935/live/?idu=doodoo_7ftli35nhv
+
+
+
+title: Teledunet Tv
+isHD: False
+title2: teledunet_tv
+path:teledunet_tv
+thumbnail:http://www.teledunet.com/logo//Teledunet%20Tv.jpg
+
