@@ -20,7 +20,7 @@ HEADER_HOST = 'www.teledunet.com'
 HEADER_USER_AGENT = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
 #TELEDUNET_TIMEPLAYER_URL = 'http://www.teledunet.com/mobile/'
 TELEDUNET_TIMEPLAYER_URL = 'http://www.teledunet.com/'
-PPV_CHANNEL_URL='rtmp://5.135.134.110:1935/teledunet/'
+PPV_CHANNEL_URL='rtmp:/5.9.105.18:8080/live/'
 
 cj = cookielib.CookieJar()
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
