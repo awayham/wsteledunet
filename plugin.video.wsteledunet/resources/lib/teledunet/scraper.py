@@ -278,9 +278,9 @@ if __name__ == '__main__':
             print 'init Addon'
         def getSetting(self, var):
             if var == "teledunetTVLogin":
-                retvar =  'welwel'
+                retvar =  'tdn'
             elif var == "teledunetTVPassword":
-                retvar = 'swqzrf'
+                retvar = 'tdn'
             else:
                 return ''
             return retvar
